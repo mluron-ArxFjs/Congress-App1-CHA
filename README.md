@@ -9,5 +9,5 @@ Usage
 Testing
 Collaborators
 You can contribute
-Licence
+License
 Contact info

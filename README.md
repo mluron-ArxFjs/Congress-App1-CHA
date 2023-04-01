@@ -1,4 +1,4 @@
-# congress-App1-CHA
+# Congress-App1-CHA
 Badges
 Application description
 Demo

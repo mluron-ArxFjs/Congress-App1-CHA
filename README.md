@@ -21,7 +21,8 @@
 
 ## Collaborators
 
-## Contributing
+## Contribute & Develop
+We've set up a separate document for our [contribution guidelines]
 
 ## License
 

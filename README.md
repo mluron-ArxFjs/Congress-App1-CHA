@@ -2,13 +2,13 @@
 ## Application description
 ### Getting started
 #### Installation
-#### Configuration & setup the Project
-#### Project structure
-#### Running the App
+#### Configuration & Setup
+## Project structure
+## Running the App
 ##### Android Configuration
 ##### iOS Configuration
-#### Testing & Screeshots
-#### Collaborators
-#### Contribute
-#### License
-#### Contact info
+## Testing & Screeshots
+## Collaborators
+## Contribute
+## License
+## Contact info

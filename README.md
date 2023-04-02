@@ -1,13 +1,14 @@
 # Congress-App1-CHA
-Badges
-Application description
-Demo
-Tech Stack
-Installation
-Configuration set up
-Usage
-Testing
-Collaborators
-You can contribute
-License
-Contact info
+## Application description
+### Getting started
+#### Installation
+#### Configuration & setup the Project
+#### Project structure
+#### Running the App
+##### Android Configuration
+##### iOS Configuration
+#### Testing & Screeshots
+#### Collaborators
+#### Contribute
+#### License
+#### Contact info

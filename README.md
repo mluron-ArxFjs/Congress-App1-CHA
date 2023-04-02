@@ -7,7 +7,20 @@
 - code coverage: ![coverage-badge-green](https://img.shields.io/badge/Coverage-50%25-brightgreen.svg)
   
 ### Getting started
+```sh
+npx create-react-native-app
+```
 
+Once you're up and running with Create React Native App, visit [this tutorial](https://reactnative.dev/docs/tutorial.html) for more information on building apps with React Native.
+
+## Features
+
+- Native project ready to be built on to your device.
+- Support for unimodules and auto-linking.
+- OTA updates, and Gestures out of the box.
+- Full support for React Native web.
+- TypeScript by default.
+- Works with the Expo Client app.
 #### Installation
 #### Configuration & Setup
 ## Project structure

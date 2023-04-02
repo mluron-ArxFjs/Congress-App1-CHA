@@ -20,6 +20,7 @@
 ## Testing & Screeshots
 
 ## Collaborators
+![](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)
 
 ## Contribute & Develop
 We've set up a separate document for our [contribution guidelines]

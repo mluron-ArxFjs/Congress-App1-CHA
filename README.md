@@ -4,11 +4,11 @@
 #### Installation
 #### Configuration & Setup
 ## Project structure
-## Running the App
-##### Android Configuration
-##### iOS Configuration
+### Running the App
+#### Android Configuration
+#### iOS Configuration
 ## Testing & Screeshots
 ## Collaborators
-## Contribute
+## Contributing
 ## License
 ## Contact info

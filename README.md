@@ -34,9 +34,22 @@ for more information on building apps with React Native.
 #### Configuration & Setup
 
 - [Usage with Comprehensive Health App](#usage-with-Comprehensive-Health-App)
+
+
 - [FAQs](#faqs)
 
+If you're having issues with Create React Native App, please make sure:
+
+- The issue is not covered in the [Expo Docs](https://docs.expo.io/versions/latest/)
+- There is not already an [open issue](https://github.com/expo/expo-cli/issues) for your particular problem
+
+If you've checked the documentation and currently open issues, please either [open a new GitHub issue](https://github.com/expo/create-react-native-app/issues/new) or ask a question on [Expo forums](https://forums.expo.io/c/help).
+
 ## Project structure
+3 Modules =
+- Physical Health Components
+- Mental Health Components
+- Group Chat / Talkspace
 
 ## Testing & Screeshots
 

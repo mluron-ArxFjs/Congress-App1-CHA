@@ -81,7 +81,9 @@ If you've checked the documentation and currently open issues, please either [op
 ## Collaborators
 
 ## Contribute & Develop
-We've set up a separate document for our [contribution guidelines]
+We've set up a separate document for our contributing guides. 
+Please see [Contributing guide](https://github.com/expo/expo-cli/blob/master/CONTRIBUTING.md) in the Expo CLI monorepo for instructions on contributing to Expo CLI.
+
 <p>
     <a aria-label="sponsored by expo" href="http://expo.io">
         <img src="https://img.shields.io/badge/Sponsored_by-Expo-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff" target="_blank" />

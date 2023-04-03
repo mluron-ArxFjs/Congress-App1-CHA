@@ -22,24 +22,22 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 - TypeScript by default.
 - Works with the Expo Client app.
 
-#### Installation
+### Running the App
 - `npx create-react-native-app` Create a new React Native app.
-- `yarn ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
+-
+#### Android Configuration
 - `yarn android` -- (`react-native run-android`) Build the Android App.
+#### iOS Configuration
+- `yarn ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
+#### Web browser
 - `yarn web` -- (`expo start:web`) Run the website in your browser.
 
 #### Configuration & Setup
 
 - [Usage with Expo Client App](#usage-with-expo-client-app)
-- [Support and Contact](#support-and-contact)
 - [FAQs](#faqs)
 
 ## Project structure
-
-### Running the App
-
-#### Android Configuration
-#### iOS Configuration
 
 ## Testing & Screeshots
 
@@ -52,7 +50,7 @@ We've set up a separate document for our [contribution guidelines]
 
 ## Contact info
 We would love hear from you! If you have any questions, please join our Cambria Heights Academy developers team
-
+- [Support and Contact](#support-and-contact)
 -![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 -![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 -![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)

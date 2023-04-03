@@ -72,7 +72,6 @@ If you've checked the documentation and currently open issues, please either [op
 
 ## Project structure
 
-![Alt text](relative%20path/to/img.jpg?raw=true "General layout")
 3 Modules =
 - Physical Health Components
 - Mental Health Components

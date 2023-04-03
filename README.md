@@ -71,6 +71,8 @@ If you're having issues with Create React Native App, please make sure:
 If you've checked the documentation and currently open issues, please either [open a new GitHub issue](https://github.com/expo/create-react-native-app/issues/new) or ask a question on [Expo forums](https://forums.expo.io/c/help).
 
 ## Project structure
+
+![Alt text](relative%20path/to/img.jpg?raw=true "General layout")
 3 Modules =
 - Physical Health Components
 - Mental Health Components

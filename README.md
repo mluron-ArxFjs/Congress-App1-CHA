@@ -21,8 +21,19 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 - Full support for React Native web.
 - TypeScript by default.
 - Works with the Expo Client app.
+
 #### Installation
+- `npx create-react-native-app` Create a new React Native app.
+- `yarn ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
+- `yarn android` -- (`react-native run-android`) Build the Android App.
+- `yarn web` -- (`expo start:web`) Run the website in your browser.
+
 #### Configuration & Setup
+
+- [Usage with Expo Client App](#usage-with-expo-client-app)
+- [Support and Contact](#support-and-contact)
+- [FAQs](#faqs)
+
 ## Project structure
 
 ### Running the App

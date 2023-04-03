@@ -68,6 +68,12 @@ If you've checked the documentation and currently open issues, please either [op
 
 ## Contribute & Develop
 We've set up a separate document for our [contribution guidelines]
+<p>
+    <a aria-label="sponsored by expo" href="http://expo.io">
+        <img src="https://img.shields.io/badge/Sponsored_by-Expo-4630EB.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=fff" target="_blank" />
+    </a>
+    
+</p>
 
 ## License
 

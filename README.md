@@ -10,8 +10,8 @@
 ```sh
 npx create-react-native-app
 ```
-
-Once you're up and running with Create React Native App, visit [this tutorial](https://reactnative.dev/docs/tutorial.html) for more information on building apps with React Native.
+Once you're up and running with Create React Native App, visit [this tutorial](https://reactnative.dev/docs/tutorial.html) 
+for more information on building apps with React Native.
 
 ## Features
 
@@ -20,7 +20,7 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 - OTA updates, and Gestures out of the box.
 - Full support for React Native web.
 - TypeScript by default.
-- Works with the Expo Client app.
+- Works with the Comprehensive Health App.
 
 ### Running the App
 - `npx create-react-native-app` Create a new React Native app.
@@ -33,7 +33,7 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 
 #### Configuration & Setup
 
-- [Usage with Expo Client App](#usage-with-expo-client-app)
+- [Usage with Expo Client App](#usage-with-Comprehensive-Health-App)
 - [FAQs](#faqs)
 
 ## Project structure

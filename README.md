@@ -33,7 +33,7 @@ for more information on building apps with React Native.
 
 #### Configuration & Setup
 
-- [Usage with Expo Client App](#usage-with-Comprehensive-Health-App)
+- [Usage with Comprehensive Health App](#usage-with-Comprehensive-Health-App)
 - [FAQs](#faqs)
 
 ## Project structure

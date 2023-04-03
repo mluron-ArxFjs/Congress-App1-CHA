@@ -28,7 +28,7 @@ for more information on building apps with React Native.
 - `yarn android` -- (`react-native run-android`) Build the Android App.
 #### iOS Configuration
 - `yarn ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
-#### Web browser
+#### Web Browser
 - `yarn web` -- (`expo start:web`) Run the website in your browser.
 
 #### Configuration & Setup
